@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "async",
+  "version": "1.0.0",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackhope58/firstNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackhope58/firstNode/issues"
+  },
+  "homepage": "https://github.com/blackhope58/firstNode#readme",
+  "description": ""
+}
